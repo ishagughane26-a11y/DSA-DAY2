@@ -7,7 +7,7 @@ This repository contains daily coding practice, Python fundamentals, problem-sol
 
 ---
 
-# 📅 Day 3 - Strings, Dictionaries, Tuples & Problem Solving
+# 📅 Day 2- Strings, Dictionaries, Tuples & Problem Solving
 
 ---
 
